@@ -5,3 +5,4 @@ This repository consists of the solutions for various Kaggle competitions I part
 2. Breast Cancer Prediction and comparison of performance between Random Forest, XGBoost and LightGBM.
 3. MNIST Fashion Dataset using Regularized Neural Network in Keras.
 4. MNIST Digit Dataset using CNN in Tensorflow 2.0
+5. TMDB Movie Revenue Prediction and comparison of XGBOOSTand CatBoost.
